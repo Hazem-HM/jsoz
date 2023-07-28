@@ -35,16 +35,61 @@
 
 // lesson 17 challenge 
 
-let  titleName, desc,date;
-titleName = "title elzero";
-desc = "elsero web school";
-date = '23/5';
+// let  titleName, desc,date;
+// titleName = "title elzero";
+// desc = "elsero web school";
+// date = '23/5';
 
-let card = `
-  <div>
-    <h3>${titleName}</h3>
-    <p>${desc}</p>
-    <span>${date}</span>
-  </div>
-`;
-document.write(card.repeat(4))
+// let card = `
+//   <div>
+//     <h3>${titleName}</h3>
+//     <p>${desc}</p>
+//     <span>${date}</span>
+//   </div>
+// `;
+// document.write(card.repeat(4))
+
+//num 18 - 22
+
+// let num = 3;
+
+// // Solution One
+// console.log(num + num); // 6
+
+// // Solution Two
+// console.log(num + true +true+true); // 6
+
+// // Soultion Three
+// console.log(num * (true+true)); // 6
+
+// // Soultion Four
+// console.log(num * (--num)); // 6
+
+// // Solution Five
+// console.log(num * (num) + num); // 6
+
+// // Solution Six
+// console.log("Write Your Code Here"); // 6
+
+// let num = "10";
+
+// // Solution One
+// console.log( +num + +num); // 20
+
+// // Solution Two
+// console.log(num *(true + true)); // 20
+
+// // Solution Three
+// console.log(true); // 20
+
+// // Solution Four
+// // console.log("Write Your Code Here"); // 20
+// let points = 10;
+
+// // Write Your Code Here
+
+// console.log(points + (true +true +true)); // 13
+
+// // Write Your Code Here
+
+// console.log(--points - true); // 8;
