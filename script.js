@@ -6,7 +6,7 @@
 
 // assignments 10-17
 
-// num 1
+// num 1 '
 
 // let numberOne, numberTwo;
 // numberOne = 10;
