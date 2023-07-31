@@ -192,11 +192,28 @@
 //   console.log(` {str} Is The Same Type As {str2} But Not The Same Value`);
 // }
 
-let num1 = 10;
-let num2 = 30;
-let num3 = "30";
+// let num1 = 10;
+// let num2 = 30;
+// let num3 = "30";
 
-// Needed Output
-"30 Is Larger Than 10 And Type string Not The Same Type As number"
-"30 Is Larger Than 10 And Value Is The Same As 30 And Type string Not The Same Type As number"
-"{num3} Value And Type Is Not The Same As {num1} And Type Is Not The Same As {num2}"
+// // Needed Output
+// "30 Is Larger Than 10 And Type string Not The Same Type As number"
+// "30 Is Larger Than 10 And Value Is The Same As 30 And Type string Not The Same Type As number"
+// "{num3} Value And Type Is Not The Same As {num1} And Type Is Not The Same As {num2}"
+
+// let day = "    sunnyday   ";
+// day = day.trim().toLowerCase()
+// let dayCorrect = day[0].toUpperCase() + day.slice(1)
+// console.log(dayCorrect);
+
+// switch (dayCorrect){
+//   case ('Friday'):
+//     console.log(`${dayCorrect} ya man`);
+//     break;
+//     case ('Sunday'):
+//       console.log(` ${dayCorrect} is a good day to chill`);
+//       break;
+//       default:
+//         console.log(`the day's name is incorrect`);
+  
+// }
